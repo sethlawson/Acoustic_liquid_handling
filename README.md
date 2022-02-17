@@ -1,5 +1,5 @@
 # Acoustic_liquid_handling
-For generating complex screens with an Echo liquid handler. Intended for advanced users with comfort using pandas.
+## For generating complex screens with an Echo liquid handler. Intended for advanced users with comfort using pandas.
 
 While the Echo comes with softwares that can do simple, high throughput tasks like 1:1 transfer, pooling, etc, two tasks I've come across that aren't addressed is the pairwise combination of wells from a sourceplate as well as generating instructions from a list of genes. Provided are some notebooks (tempting to pack it up into a .exe but I like to have more control/oversight of my plates) I use to handle these two tasks.
 
